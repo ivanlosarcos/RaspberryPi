@@ -1,0 +1,1 @@
+In this project I will be playing with the idea of controlling physical components (LEDs) using code. The final objective of this project is building a semaphore of flashing lights
