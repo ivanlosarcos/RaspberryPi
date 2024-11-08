@@ -1,0 +1,1 @@
+In this folder I will be uploading all the scripts involving playing with Light Sensors.
