@@ -16,7 +16,7 @@ def calculate_speed(a, b, time_interval):
     return speed 
     
 
-threshold=1.2
+threshold=1.5
 start_time = time.time()
 last_distance = ultrasonic.distance 
 
